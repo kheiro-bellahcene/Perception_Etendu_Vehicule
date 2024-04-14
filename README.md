@@ -1,3 +1,7 @@
+
+Remarque:
+Le TP et TD sont fait par MATLAB est générer a partir ce dernier à des fichiers PDF et Html, il faut juste les télécharger pour les visualiser.
+
 TP : Détection des obstacles avec la v-disparité
 
 Grâce au calibrage d’une paire de caméras sur un véhicule, nous disposons de
