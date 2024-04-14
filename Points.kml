@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Points</name>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>Point 1</name>
+      <Point>
+        <coordinates>2.279649,48.816359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>Point 2</name>
+      <Point>
+        <coordinates>2.242899,48.782211,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>Point 3</name>
+      <Point>
+        <coordinates>2.199297,48.77927,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
